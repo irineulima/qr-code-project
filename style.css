@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  background-color: hsl(212, 45%, 89%);
+  max-width: 1000px;
+  margin: auto;
+}
+
+.qr-code {
+  display: block;
+  min-width: 350px;
+  max-width: 1440px;
+  margin: auto;
+}
+
+
+font-family: 'Outfit', sans-serif;
